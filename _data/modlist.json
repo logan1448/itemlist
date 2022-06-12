@@ -276,12 +276,6 @@
     "version": "4.7.272"
   },
   {
-    "author": "Cosmo Corban",
-    "name": "AI Upscaled Textures - Plants",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Avius and Hazzer",
     "name": "Prison Labor",
     "steamId": "1899474310",
@@ -354,12 +348,6 @@
     "version": null
   },
   {
-    "author": "Inglix",
-    "name": "Apparel Tainted Only When Corpse Rots",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Shinzy",
     "name": "Apparello 2",
     "steamId": null,
@@ -402,24 +390,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "QuantumX",
-    "name": "Astra Militarum Imperial Guard Core Mod v2.3",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.7.7366"
-  },
-  {
-    "author": "joeyjoejoeshabidoo",
-    "name": "Atmospheric Water Collection",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "AUTOMATIC",
     "name": "Auto links",
     "steamId": null,
@@ -430,12 +400,6 @@
     "name": "Auto-Cut Blight",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "AUTOMATIC",
-    "name": "Autocleaner",
-    "steamId": "2051042827",
-    "version": "1.0.379.0018"
   },
   {
     "author": "Ben",
@@ -502,12 +466,6 @@
     "name": "Better ModMismatch Window",
     "steamId": "1872244972",
     "version": "1.1.3"
-  },
-  {
-    "author": "VouLT",
-    "name": "Better Pawn Control",
-    "steamId": "1541460369",
-    "version": "1.0.0.0"
   },
   {
     "author": "wastelandr",
@@ -612,12 +570,6 @@
     "version": null
   },
   {
-    "author": "Jecrell",
-    "name": "Call of Cthulhu - Cosmic Horrors",
-    "steamId": "765890823",
-    "version": "1.3.0.2"
-  },
-  {
     "author": "Captain Muscles (Nathan Harbour)",
     "name": "Callouts",
     "steamId": "2362736503",
@@ -684,12 +636,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Owlchemist",
-    "name": "Clean Pathfinding",
-    "steamId": "2603765747",
-    "version": "1.3"
-  },
-  {
     "author": "Mlie",
     "name": "Climate Cycle++ (Continued)",
     "steamId": "2024296023",
@@ -738,12 +684,6 @@
     "version": null
   },
   {
-    "author": "MarvinKosh",
-    "name": "Combat Readiness Check (Continued)",
-    "steamId": "2314304057",
-    "version": "1.0.3.0"
-  },
-  {
     "author": "Comigo Games",
     "name": "Comigo's Bridges and Platforms",
     "steamId": null,
@@ -768,12 +708,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Porohkun",
-    "name": "Concrete Walls",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "bdew",
     "name": "Cremate Auto Strip",
     "steamId": null,
@@ -792,14 +726,14 @@
     "version": null
   },
   {
-    "author": "Proxyer",
-    "name": "DE Surgeries - Dubs Bad Hygiene",
-    "steamId": null,
-    "version": null
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
   },
   {
-    "author": "Chicken Plucker",
-    "name": "DOOM - Factions (Continued)",
+    "author": "Proxyer",
+    "name": "DE Surgeries - Dubs Bad Hygiene",
     "steamId": null,
     "version": null
   },
@@ -808,12 +742,6 @@
     "name": "Damage Indicators [1.3]",
     "steamId": "2016331497",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Monto",
-    "name": "Dark Devilstrand",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "WiseClock and  fork: AtrociousCollector",
@@ -856,12 +784,6 @@
     "name": "Designator Shapes",
     "steamId": "1235181370",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Fluffy",
-    "name": "Desire Paths",
-    "steamId": "2072410063",
-    "version": "0.8.102"
   },
   {
     "author": "AveryTheKitty,  Erin and Ravenholme",
@@ -924,12 +846,6 @@
     "version": null
   },
   {
-    "author": "Qarsoon Meel",
-    "name": "Dreamer's Dreams",
-    "steamId": "2514986353",
-    "version": "2.3.2"
-  },
-  {
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
@@ -972,21 +888,9 @@
     "version": "1.7.7368"
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Skylights",
-    "steamId": "833899765",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "iwishforducks",
     "name": "Ducks' Insane Skills",
     "steamId": "2450186578",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "iwishforducks",
-    "name": "Ducks' No Limits - Ideology",
-    "steamId": "2554423180",
     "version": "1.0.0.0"
   },
   {
@@ -1108,12 +1012,6 @@
     "name": "Enemy Self Preservation",
     "steamId": "2006638530",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Nunahur Al-Shamikh",
-    "name": "Entosomnia - Medieval Cryptosleep",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "telardo",
@@ -1392,12 +1290,6 @@
     "version": null
   },
   {
-    "author": "AobaKuma",
-    "name": "Fortifications - Medieval - Material",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "miyamiya",
     "name": "Functional Room",
     "steamId": null,
@@ -1548,18 +1440,6 @@
     "version": null
   },
   {
-    "author": "Zylle",
-    "name": "Human Leather Floor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "FLASHPOINT55",
-    "name": "Human Power Generator Mod",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "aRandomKiwi",
     "name": "Hunt for Me",
     "steamId": "1593245720",
@@ -1670,12 +1550,6 @@
   {
     "author": "Kure",
     "name": "Kure's Rimworld of Magic Class Expansion Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Falconne",
-    "name": "Labels on Floor",
     "steamId": null,
     "version": null
   },
@@ -2070,12 +1944,6 @@
     "version": null
   },
   {
-    "author": "Tidal",
-    "name": "More Vanilla Textures",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Paradox",
     "name": "More Vanilla Turrets 1.1+",
     "steamId": null,
@@ -2106,12 +1974,6 @@
     "version": "1.0.0"
   },
   {
-    "author": "Maszo Pok",
-    "name": "Narco",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "RadZerp",
     "name": "Natural Paths",
     "steamId": null,
@@ -2128,12 +1990,6 @@
     "name": "Need Bar Overflow",
     "steamId": "2566316158",
     "version": "1.3.0"
-  },
-  {
-    "author": "yiuaaa",
-    "name": "Net Gun",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Andreas Pardeike",
@@ -2635,12 +2491,6 @@
   },
   {
     "author": "Rah",
-    "name": "Rah's Hardcore Armors",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rah",
     "name": "Rah's Vanilla Turrets Expansion",
     "steamId": null,
     "version": null
@@ -2984,12 +2834,6 @@
   {
     "author": "rooki1",
     "name": "Rimsenal Style Pack - Techist",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Orpheusly",
-    "name": "Rimsential - Homebound",
     "steamId": null,
     "version": null
   },
