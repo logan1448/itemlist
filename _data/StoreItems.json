@@ -49775,7 +49775,319 @@
 		"price": 550,
 		"category": "Animal",
 		"defname": "VFE_Mech_Termite"
+	},
+	{
+		"abr": "advancedincubator",
+		"price": 925,
+		"category": "Misc",
+		"defname": "AdvancedIncubator"
+	},
+	{
+		"abr": "basicincubator",
+		"price": 442,
+		"category": "Misc",
+		"defname": "BasicIncubator"
+	},
+	{
+		"abr": "blackdragon",
+		"price": 11000,
+		"category": "Animals",
+		"defname": "Black_Dragon"
+	},
+	{
+		"abr": "blackdragonegg(fert.)",
+		"price": 5333,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggBlackDragonFertilized"
+	},
+	{
+		"abr": "bluedragon",
+		"price": 11000,
+		"category": "Animals",
+		"defname": "Blue_Dragon"
+	},
+	{
+		"abr": "bluedragonegg(fert.)",
+		"price": 4167,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggBlueDragonFertilized"
+	},
+	{
+		"abr": "doublecrossbow",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "DD_Bow_DoubleCrossbow"
+	},
+	{
+		"abr": "drachensword",
+		"price": 3667,
+		"category": "Melee weapons",
+		"defname": "DD_MeleeWeapon_DrachenSword"
+	},
+	{
+		"abr": "draconicambrosia",
+		"price": 60,
+		"category": "Drugs",
+		"defname": "DraconicAmbrosia"
+	},
+	{
+		"abr": "dragonaltar",
+		"price": 675,
+		"category": "Furniture",
+		"defname": "Altar"
+	},
+	{
+		"abr": "dragoncrown",
+		"price": 1683,
+		"category": "Headgear",
+		"defname": "DD_Apparel_DragonCrown"
+	},
+	{
+		"abr": "dragonegg(unfert.)",
+		"price": 42,
+		"category": "Eggs (unfert.)",
+		"defname": "EggDragonUnfertilized"
+	},
+	{
+		"abr": "dragonhorn",
+		"price": 1450,
+		"category": "Items",
+		"defname": "DragonHorn"
+	},
+	{
+		"abr": "dragonleather",
+		"price": 29,
+		"category": "Leathers",
+		"defname": "Dragon_Leather"
+	},
+	{
+		"abr": "dragonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Red_Dragon"
+	},
+	{
+		"abr": "dragonnest",
+		"price": 44,
+		"category": "Furniture",
+		"defname": "DragonNest"
+	},
+	{
+		"abr": "dragonpillow",
+		"price": 206,
+		"category": "Furniture",
+		"defname": "DragonPillow"
+	},
+	{
+		"abr": "dragonfirelauncher",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "DD_Gun_DragonfireLauncher"
+	},
+	{
+		"abr": "dragon'sblood",
+		"price": 97,
+		"category": "Drugs",
+		"defname": "DragonsBlood"
+	},
+	{
+		"abr": "focusingtome",
+		"price": 2667,
+		"category": "Melee weapons",
+		"defname": "DDMeleeWeapon_FocusingTome"
+	},
+	{
+		"abr": "golddragon",
+		"price": 13167,
+		"category": "Animals",
+		"defname": "Gold_Dragon"
+	},
+	{
+		"abr": "golddragonegg(fert.)",
+		"price": 6833,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggGoldDragonFertilized"
+	},
+	{
+		"abr": "greendragon",
+		"price": 11000,
+		"category": "Animals",
+		"defname": "Green_Dragon"
+	},
+	{
+		"abr": "greendragonegg(fert.)",
+		"price": 4167,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggGreenDragonFertilized"
+	},
+	{
+		"abr": "hardscale",
+		"price": 6,
+		"category": "Raw resources",
+		"defname": "HardScale"
+	},
+	{
+		"abr": "hornedlance",
+		"price": 3833,
+		"category": "Melee weapons",
+		"defname": "DD_MeleeWeapon_HornedLance"
+	},
+	{
+		"abr": "jadedragon",
+		"price": 13167,
+		"category": "Animals",
+		"defname": "Jade_Dragon"
+	},
+	{
+		"abr": "jadedragonegg(fert.)",
+		"price": 6833,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggJadeDragonFertilized"
+	},
+	{
+		"abr": "jewelberries",
+		"price": 3,
+		"category": "Vegetarian",
+		"defname": "JewelBerries"
+	},
+	{
+		"abr": "jeweledrhizome",
+		"price": 3,
+		"category": "Vegetarian",
+		"defname": "Jeweledrhizomeraw"
+	},
+	{
+		"abr": "matinghorn",
+		"price": 3333,
+		"category": "Artifacts",
+		"defname": "MatingHorn"
+	},
+	{
+		"abr": "moonstone",
+		"price": 47,
+		"category": "Drugs",
+		"defname": "MoonStone"
+	},
+	{
+		"abr": "psychicaginglance",
+		"price": 3083,
+		"category": "Artifacts",
+		"defname": "PubertyLance"
+	},
+	{
+		"abr": "purpledragon",
+		"price": 11000,
+		"category": "Animals",
+		"defname": "Purple_Dragon"
+	},
+	{
+		"abr": "purpledragonegg(fert.)",
+		"price": 4167,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggPurpleDragonFertilized"
+	},
+	{
+		"abr": "raredragonleather",
+		"price": 38,
+		"category": "Leathers",
+		"defname": "Rare_Dragon_Leather"
+	},
+	{
+		"abr": "reddragon",
+		"price": 11000,
+		"category": "Animals",
+		"defname": "Red_Dragon"
+	},
+	{
+		"abr": "reddragonegg(fert.)",
+		"price": 5333,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggRedDragonFertilized"
+	},
+	{
+		"abr": "scalehelmet",
+		"price": 189,
+		"category": "Headgear",
+		"defname": "DD_Apparel_ScaleHelm"
+	},
+	{
+		"abr": "scalemail",
+		"price": 675,
+		"category": "Armor",
+		"defname": "DD_Apparel_ScaleMail"
+	},
+	{
+		"abr": "silverdragon",
+		"price": 13167,
+		"category": "Animals",
+		"defname": "Silver_Dragon"
+	},
+	{
+		"abr": "silverdragonegg(fert.)",
+		"price": 6833,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggSilverDragonFertilized"
+	},
+	{
+		"abr": "thrumbobattleaxe",
+		"price": 1833,
+		"category": "Melee weapons",
+		"defname": "DDMeleeWeapon_ThrumboBattleAxe"
+	},
+	{
+		"abr": "truedragon",
+		"price": 20000,
+		"category": "Animals",
+		"defname": "True_Dragon"
+	},
+	{
+		"abr": "truedragonegg(fert.)",
+		"price": 11083,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggTrueDragonFertilized"
+	},
+	{
+		"abr": "truedragonleather",
+		"price": 71,
+		"category": "Leathers",
+		"defname": "True_Dragon_Leather"
+	},
+	{
+		"abr": "whitedragon",
+		"price": 11000,
+		"category": "Animals",
+		"defname": "White_Dragon"
+	},
+	{
+		"abr": "whitedragonegg(fert.)",
+		"price": 4167,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggWhiteDragonFertilized"
+	},
+	{
+		"abr": "wingcape",
+		"price": 425,
+		"category": "Apparel",
+		"defname": "DD_Apparel_WingCape"
+	},
+	{
+		"abr": "winter'sreign",
+		"price": 7500,
+		"category": "Magic foci",
+		"defname": "TM_WinterStaff"
+	},
+	{
+		"abr": "yellowdragon",
+		"price": 11000,
+		"category": "Animals",
+		"defname": "Yellow_Dragon"
+	},
+	{
+		"abr": "yellowdragonegg(fert.)",
+		"price": 4167,
+		"category": "Dragon eggs (fert.)",
+		"defname": "EggYellowDragonFertilized"
 	}
 	],
-	"total": 8296
+	"total": 8348
 }

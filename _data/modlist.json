@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "author": "Andreas Pardeike",
     "name": "Harmony",
@@ -1665,7 +1665,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.5.7.4"
+    "version": "2.5.7.5"
   },
   {
     "author": "Kure",
@@ -1875,7 +1875,7 @@
     "author": "erdelf",
     "name": "MinifyEverything",
     "steamId": "872762753",
-    "version": "1.0.8187.28625"
+    "version": "1.0.8190.34986"
   },
   {
     "author": "Uuugggg",
@@ -2914,12 +2914,6 @@
     "name": "RimThemes",
     "steamId": "1668983184",
     "version": "2021.0.1.6"
-  },
-  {
-    "author": "Sierra",
-    "name": "RimTraits - General Traits",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Oskar Potocki and  Sarg Bjornson",
